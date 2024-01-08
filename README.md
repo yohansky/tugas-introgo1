@@ -1,8 +1,8 @@
-Halo, Saya Yohanes 
-Saya adalah Talent Pijar Camp
-Di repository ini terdapat hasil/Jawaban Tugas pertama saya dalam Golang fundamental 1
+Halo, Saya Yohanes <br>
+Saya adalah Talent Pijar Camp <br>
+Di repository ini terdapat hasil/Jawaban Tugas pertama saya dalam Golang fundamental 1 <br>
 
-untuk nomor 3 sudah saya ubah menggunakan Func 
+untuk nomor 3 sudah saya ubah menggunakan Func
 
 Ini untuk soalnya :
 
