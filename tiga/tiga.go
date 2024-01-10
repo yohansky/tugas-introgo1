@@ -11,6 +11,11 @@ func integerToString(integer int) string {
 }
 
 func validateInteger(integer int) bool {
+	// mtkStr := integerToString(80)
+    // bahasaIndonesiaStr := integerToString(90)
+    // bahasaInggrisStr := integerToString(89)
+    // ipaStr := integerToString(69)
+
 	// Definisikan pola regex untuk integer
 	integerRegex := regexp.MustCompile(`^[0-9]+$`)
 	_ = integerRegex
